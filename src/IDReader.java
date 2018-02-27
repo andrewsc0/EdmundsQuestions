@@ -16,6 +16,8 @@ public class IDReader {
 		
 	}
 	
+	//working method that does the 'work' of the program
+	
 	public String enterName(String name) {
 		
 		Person pers = new Person(name);
